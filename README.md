@@ -1,7 +1,13 @@
-<h1 align="center">Hi , I'm ZyKaiyZ</h1>
+<h1 align="center">ZyKaiyZ's Profile</h1>
+<h3 align="center">:fish: WELCOME :fish:</h3>
+<hr></hr>
+<p align="center">
+  <img src="https://images.plurk.com/3c0n5PEEocrRfHq8l6F28l.gif">
+</p>
+<hr></hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">:cloud: LANGUAGES & TOOLS :cloud:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -30,28 +36,9 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zykaiyz&label=Profile%20views&color=0e75b6&style=flat" alt="zykaiyz" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zykaiyz" alt="zykaiyz" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-<h3 align="left">
-  Connect with me:
-</h3>
-<p align="left">
-</p>
+<hr></hr>
+<h3 align="center">:fire: STATS :fire:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact" alt="zykaiyz" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZyKaiyZ&theme=github" alt="" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact" alt="" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&locale=en" alt="zykaiyz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zykaiyz&" alt="zykaiyz" /></p>
