@@ -38,7 +38,10 @@
 </p>
 <hr></hr>
 <h3 align="center">:fire: STATS :fire:</h3>
-<p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZyKaiyZ&theme=github" alt="" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact" alt="" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt="" />
 </p>
