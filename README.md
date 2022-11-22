@@ -1,8 +1,5 @@
-<h1 align="center">ZyKaiyZ's Profile</h1>
-<h3 align="center">:fish: WELCOME :fish:</h3>
-<hr></hr>
 <p align="center">
-  <img src="https://images.plurk.com/3c0n5PEEocrRfHq8l6F28l.gif">
+  <img src="https://github.com/ZyKaiyZ/ZyKaiyZ/blob/main/header.gif">
 </p>
 <hr></hr>
 
@@ -44,4 +41,9 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt="" />
+</p>
+
+<hr></hr>
+<p align="center">
+  <img src="https://images.plurk.com/3c0n5PEEocrRfHq8l6F28l.gif">
 </p>
