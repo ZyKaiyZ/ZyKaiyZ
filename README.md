@@ -14,10 +14,10 @@
 -->
 <h3 align="center">:fire: STATS :fire:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&theme=gotham" alt="abhisheknaiidu" style="height:195px; width:465px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt=""  style="height:195px ; width:465px;"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&theme=gotham" alt="abhisheknaiidu" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt="" align="right" height="195"/>
+
 
 <!--
 <hr></hr>
