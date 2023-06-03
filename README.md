@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./src/header-terminal.gif"  />
 </div>
-<h2 align="center">Skills & Technologies</h2>
+<h2 align="center">Learning & Usage</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
   <img width="12" />
