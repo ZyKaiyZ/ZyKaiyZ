@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ZyKaiyZ/ZyKaiyZ/blob/main/header.gif">
+  <img src="./src/header-terminal.gif">
 </p>
 <hr></hr>
 
