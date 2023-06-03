@@ -15,8 +15,8 @@
 <h3 align="center">:fire: STATS :fire:</h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&theme=gotham" alt="abhisheknaiidu" align="left" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt="" align="right" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zykaiyz&show_icons=true&theme=gotham" alt="abhisheknaiidu" align="left" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zykaiyz&show_icons=true&locale=en&layout=compact&theme=gotham" alt="" align="right" height="175"/>
 
 
 <!--
