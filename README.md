@@ -31,8 +31,8 @@
 </div>
 <h2 align="center">Stats & Metrics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyKaiyZ&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="225" alt="Stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyKaiyZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=true&order=2" height="225" alt="Languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyKaiyZ&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="175" alt="Stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyKaiyZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=true&order=2" height="175" alt="Languages graph"  />
 </div>
 <h2 align="center">Visitor Count</h2>
 <div align="center">
